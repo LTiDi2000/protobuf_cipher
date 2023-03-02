@@ -1,2 +1,2 @@
-# protobufdecode
-Python version for decode proto buffer data without the message definitio/struct
+# protobuf_cipher
+Python version for decode/encode proto buffer data without the message definitio/struct
